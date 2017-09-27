@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\SATYAM RAMAWAT\AndroidStudioProjects\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\SATYAM RAMAWAT\AndroidStudioProjects\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_1d2f5d28d88464b046f7067b0b8c601c908e9785\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SATYAM RAMAWAT\AndroidStudioProjects\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\SATYAM RAMAWAT\AndroidStudioProjects\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_b0fbf45701eb688a15021ca22ee5bb2495413f24\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\SATYAM RAMAWAT\AndroidStudioProjects\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_51ab30143fbff50b8779a9626e6d377c1c44e7c7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SATYAM RAMAWAT\AndroidStudioProjects\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\SATYAM RAMAWAT\AndroidStudioProjects\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_26e07379aa10ec59be15f294e9dd53dadfdc9d5d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SATYAM RAMAWAT\AndroidStudioProjects\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\SATYAM RAMAWAT\AndroidStudioProjects\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_0ebd53404c25a0bcb0c2499a5df548669b2edee8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SATYAM RAMAWAT\AndroidStudioProjects\LoginApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="d9b54a91f125fbd2aa11f8cb352aa07d2945165b">
+        <dex dex="C:\Users\SATYAM RAMAWAT\AndroidStudioProjects\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_70bdad7e60307f43f830b76e2b4167a5ca33f99c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SATYAM RAMAWAT\AndroidStudioProjects\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\SATYAM RAMAWAT\AndroidStudioProjects\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_03bdf3ea50ea68e31d9a58cf0837f300a07bcc2c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SATYAM RAMAWAT\AndroidStudioProjects\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\SATYAM RAMAWAT\AndroidStudioProjects\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_5be789e9d29534b1860b882352c5f66570a7301a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SATYAM RAMAWAT\AndroidStudioProjects\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\SATYAM RAMAWAT\AndroidStudioProjects\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_758ee0ccd1b11a20e076e9545ef18504a279a846\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SATYAM RAMAWAT\AndroidStudioProjects\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\SATYAM RAMAWAT\AndroidStudioProjects\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_f258e0f121b9f50e44b5f56618ff4825b847fbe7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SATYAM RAMAWAT\AndroidStudioProjects\LoginApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\SATYAM RAMAWAT\AndroidStudioProjects\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_2f8d8e3ef32d12ca2d1a3d328406aab74f94ffeb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SATYAM RAMAWAT\AndroidStudioProjects\LoginApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="015c77f29cfb2a934d1efce36b702fba672584bf">
+        <dex dex="C:\Users\SATYAM RAMAWAT\AndroidStudioProjects\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8e27895d2bf9c324a2c9b75390d36830cdb099e8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SATYAM RAMAWAT\AndroidStudioProjects\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\SATYAM RAMAWAT\AndroidStudioProjects\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_daf40072c3ed929c2413e9d2c9f34b660231b46d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SATYAM RAMAWAT\AndroidStudioProjects\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\SATYAM RAMAWAT\AndroidStudioProjects\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_cdce6636ad4940a77abad69ad9785462f62e43b0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SATYAM RAMAWAT\AndroidStudioProjects\LoginApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\SATYAM RAMAWAT\AndroidStudioProjects\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_2b714bf7424c9b4bd31b97be2669aef9a2a1998a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SATYAM RAMAWAT\AndroidStudioProjects\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\SATYAM RAMAWAT\AndroidStudioProjects\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_a27933ff833adc6b2835631a83e6f8e5095e1ecc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SATYAM RAMAWAT\AndroidStudioProjects\LoginApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\SATYAM RAMAWAT\AndroidStudioProjects\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_cd76f89a5ca26cea32cb83d1c2268b4d96222140\classes.dex" />
+    </item>
+
+</items>
